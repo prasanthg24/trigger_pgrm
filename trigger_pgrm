@@ -1,0 +1,4 @@
+class trigger_pgrm{
+public static void main(String[] args){
+  System.out.println("Trigger program in Jenkins");
+  }
